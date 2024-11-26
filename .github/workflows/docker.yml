@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: zayedsalim/API-testing-js-app:latest
+          tags: zayed13/api-testing-js-app:latest
